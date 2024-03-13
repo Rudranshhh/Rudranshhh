@@ -1,6 +1,7 @@
+![logo](https://github.com/Rudranshhh/Rudranshhh/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rupesh bhardwaj</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img aling="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📫 How to reach me **rudransh935827@gmail.com**
 
